@@ -46,8 +46,7 @@ Como profissional em gestão de risco (e aspirante a analista de dados), estou c
 Cada módulo terá sua própria pasta contendo:
 
 - Datasets utilizados (quando possível)
-- Códigos comentados
-- Relatórios de análise
+- Códigos
 - Documentação das decisões tomadas
 
 ## 📅 Método de Aprendizagem
