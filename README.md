@@ -51,4 +51,6 @@ Cada módulo terá sua própria pasta contendo:
 - Documentação das decisões tomadas
 
 ## 📅 Método de Aprendizagem
-Planejo adquirir o conhecimento necessário tanto por cursos gratuitos quanto por cursos pagos com a utilização de todas as ferramentas disponíveis hoje em dia.
+- Cursos online (gratuitos e pagos)
+- Documentação técnica
+- Fóruns de discussão para solução de problemas
