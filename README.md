@@ -1,4 +1,4 @@
-# Roadmap de Formação em Análise de Dados
+# Desenvolvimento em Análise e Ciência de Dados
 
 ## 📌 Visão Geral
 Este repositório é a transcrição da minha jornada de aprendizado em análise de dados, seguindo um roadmap estruturado em 6 módulos essenciais. Ao longo de 24 semanas, desenvolverei habilidades técnicas enquanto trabalho com datasets reais e focando em simular demandas do mercado.
