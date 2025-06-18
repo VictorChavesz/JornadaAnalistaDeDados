@@ -1,4 +1,4 @@
-# Roadmap de Formação em Análise de Dados
+# Módulo 1 - SQL
 
 ## 📌 Visão Geral
 Este módulo inicial é dedicado ao domínio dos fundamentos em SQL, utilizando dados reais do e-commerce brasileiro para desenvolver habilidades práticas de manipulação e análise de dados.
