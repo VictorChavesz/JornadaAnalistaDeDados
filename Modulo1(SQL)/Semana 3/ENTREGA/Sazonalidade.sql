@@ -1,0 +1,9 @@
+SELECT
+	DATE_TRUNC('month', order_purchase_timestamp) AS PERIODO,
+	COUNT(order_id) AS QUANTIDADE
+FROM
+	ORDERS
+GROUP BY
+	PERIODO
+ORDER BY
+	PERIODO ASC
