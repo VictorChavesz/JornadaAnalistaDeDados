@@ -8,6 +8,6 @@ Avançando através do conteúdo da primeira semana meu foco se volta para a lig
 
 ## 🎯 Prática/Demanda
 **Demanda do Gestor:**
-"Calcule o ticket médio por estado e identifique pedidos com atraso > 5 dias. Precisamos disso para avaliar nossa logística."
+>"Calcule o ticket médio por estado e identifique pedidos com atraso > 5 dias. Precisamos disso para avaliar nossa logística."
 
 **Entregável:** Query com JOINs e GROUP BY + lista de pedidos problemáticos.
