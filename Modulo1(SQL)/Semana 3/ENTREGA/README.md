@@ -1,6 +1,7 @@
-# Semana 1
+# Semana 3
 
 ## 👀 Pensamento por trás das decisões
-Analisnado a demanda, o meu primeiro pensamento foi analisar como eu poderia trazer todas as informações relevantes o suficientes para satisfazer o que foi proposto,
-ao estudar as tabelas percebi que os principais dados visuais relevantes estariam presentes em 2 tabelas: **`order_items`** a qual me traria as informações da quantidade do produto junto de seu id e 
-a tabela **`products`** que traria a categoria do produto. 
+
+Analisando a demanda, meu primeiro pensamento foi entender como trazer todas as informações relevantes o suficiente para atender ao que foi proposto. 
+Para a questão da devolução de produtos, ao observar a tabela **`ORDERS`**, percebi que havia um status específico indicando devolução. A partir disso, bastou realizar a união com as tabelas **`ORDER_ITEMS`** e **`PRODUCTS`**, utilizando um **`COUNT`** para identificar as três categorias com a maior taxa de devolução.
+Já para a parte da demanda referente à sazonalidade, optei por não utilizar o **`EXTRACT`**, pois o **`DATE_TRUNC`** já entrega os dados no formato ideal para análise mensal. Assim, consigo transformar esses dados em gráficos com o auxílio de algumas bibliotecas do **`PYTHON`**, como **`MATPLOTLIB`** e **`STATSMODELS`**.
