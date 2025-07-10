@@ -27,11 +27,6 @@ Como profissional em gestão de risco (e aspirante a analista de dados), estou c
 
 **Prática:** Análise de sazonalidade e identificação das categorias com maior taxa de devolução.
 
-### Semana 4: Projeto Integrador
-**Foco:** Combinação de todos os conceitos aprendidos em um projeto completo.
-
-**Prática:** Análise de faturamento por categoria, taxa de reclamações por vendedor e crescimento por estado.
-
 ## 📂 Entregáveis
 - Scripts SQL completos
 - Documentação das decisões técnicas no arquivos .md
